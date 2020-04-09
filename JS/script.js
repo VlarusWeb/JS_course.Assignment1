@@ -14,6 +14,9 @@ let appData = {
     saving: false
 };
 
+
+// Iteration statement - "for"
+
 // for (let i =0; i < 2; i++) {
 //     let expA = prompt("Enter expenses for this month ?");
 //     let expB = prompt("How mutch it cost ?");
@@ -28,6 +31,9 @@ let appData = {
 //         i--;
 //     }
 // }
+
+
+// Iteration starement - "do"
 
 // let i = 0;
 // do {
@@ -44,6 +50,9 @@ let appData = {
 // }
 // } 
 // while (i < 2);
+
+
+//Iteration statement - "while"
 
 let i = 0;
 while (i < 2) {
