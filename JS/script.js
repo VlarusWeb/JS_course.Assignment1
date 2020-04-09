@@ -33,7 +33,7 @@ let appData = {
 // }
 
 
-// Iteration starement - "do"
+// Iteration statement - "do"
 
 // let i = 0;
 // do {
